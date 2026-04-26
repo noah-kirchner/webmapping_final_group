@@ -1,4 +1,4 @@
-# Final Project - [Your Project Title TBD]
+# Final Project
 
 **Team Member(s):** Noah Kirchner
 
